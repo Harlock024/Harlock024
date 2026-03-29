@@ -4,7 +4,7 @@ Hi 👋 My name is Hadith Campos
 🚀 Software Engineering Student | Web & API Developer | Linux Enthusiast
 ------------------------------------------------------------------------
 
-🚀 Software Engineering Student | Web & API Developer | Linux Enthusiast I’m a software engineering student with a passion for learning new technologies and applying them in real-world projects. I started with HTML & CSS in high school, but I quickly became fascinated by the logical aspects of web development and API design. I also have a deep interest in operating systems, especially Linux (I use Arch, btw ). Always exploring, always learning.
+🚀 Software Engineering Student | Web & API Developer | Linux Enthusiast I’m a software engineering student with a passion for learning new technologies and applying them in real-world projects. I started with HTML & CSS in high school, but I quickly became fascinated by the logical aspects of web development and API design. I also have a deep interest in operating systems, especially Linux. Always exploring, always learning.
 
 *   🌍  I'm based in Mexicco
 *   ✉️  You can contact me at [hadith024@gmail.com](mailto:hadith024@gmail.com)
